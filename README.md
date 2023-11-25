@@ -33,7 +33,7 @@
 
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=plastic&logo=azuredevops&logoColor=white&color=%230078D7) 
 
-<!-end of adding tech stacks-->
+<!--end of adding tech stacks-->
 
 <h2>Projects</h2>
 

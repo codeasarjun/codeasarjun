@@ -17,13 +17,17 @@
 
 <table>
   <tr>
+    <th>Id</th>
     <th>Name</th>
     <th>Tech Used</th>
     
+    
   </tr>
   <tr>
+    <td>1 </td>
     <td>Login Page</td>
     <td>JavaFX ||Java|| Postgre SQL</td>
+    
    
   </tr>
   </tr>

@@ -22,8 +22,8 @@
     
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Login Page</td>
+    <td>JavaFX||Java||Postgre SQL</td>
    
   </tr>
   </tr>

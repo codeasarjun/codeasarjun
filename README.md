@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>Login Page</td>
-    <td>JavaFX||Java||Postgre SQL</td>
+    <td>JavaFX ||Java|| Postgre SQL</td>
    
   </tr>
   </tr>

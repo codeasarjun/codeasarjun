@@ -25,40 +25,40 @@
   <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/login_page">Login Page</td>
-    <td>JavaFX ||Java|| Postgre SQL</td>
+    <td>JavaFX || Java || Postgre SQL</td>
   </tr>
 
 
  <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/Subnet-Calculator-">Subnet Calculator</td>
-    <td>JavaFX ||Java|| Postgre SQL</td>
+    <td>JavaFX || Java || Postgre SQL</td>
   </tr>
 
    <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/matrix_calculator">Matrix Calculator</td>
-    <td>JavaFX ||Java|| Postgre SQL</td>
+    <td>JavaFX || Java</td>
   </tr>
 
   <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/Predict-the-Salary">Predict the Salary</td>
-    <td>JavaFX ||Machine Learning|| Jupyter Notebook || Streamlit || Python</td>
+    <td>Machine Learning || Jupyter Notebook || Streamlit || Python</td>
   </tr>
 
 
 <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/house_price_prediction">House Price Prediction</td>
-    <td>JavaFX ||Machine Learning|| Jupyter Notebook || Flask || Python</td>
+    <td>Machine Learning || Jupyter Notebook || Flask || Python</td>
   </tr>
   
 
   <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy</td>
-    <td>JavaFX ||IoT||  ||  || </td>
+    <td>IoT </td>
   </tr>
   
   
@@ -66,7 +66,7 @@
   <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeMate</td>
-    <td>JavaFX ||NLP||  ||  || </td>
+    <td>NLP </td>
   </tr>
       
   </tr>

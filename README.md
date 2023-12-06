@@ -105,6 +105,13 @@
     <td>Computer Vision || PyTorch || </td>
   </tr>
 
+
+
+<tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/Resume-Parser">Resume Parser</td>
+    <td>Python || Text Extraction || Flask </td>
+  </tr>
   
       
   </tr>

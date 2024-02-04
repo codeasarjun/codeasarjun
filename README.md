@@ -96,8 +96,12 @@
     <td><a href="https://github.com/codeasarjun/MakeitEasy">MakeitEasy</td>
     <td>NLP || Summarizer || </td>
   </tr>
-
-
+  
+<tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings</td>
+    <td>Python || NLP || LIME</td>
+  </tr>
 
 <tr>
     <td></td>

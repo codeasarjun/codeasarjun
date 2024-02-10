@@ -104,7 +104,7 @@ Let's collaborate 🤝 and innovate in the world of Artificial Intelligence!
 <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/MakeitEasy">MakeitEasy</td>
-    <td>NLP || Summarizer || </td>
+    <td>Python || PyMuPdf || NLTK || Tax Ranking || Extractive Summarization || [Coming soon with bert-extractive-summarizer]   </td>
   </tr>
   
 <tr>

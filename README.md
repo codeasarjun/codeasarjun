@@ -2,12 +2,12 @@
 
 # 👨‍💻 About Me
 
-🎓 Masters in Computer Applications
-💻 Software Engineer
+🎓 Masters in Computer Applications<br>
+💻 Software Engineer<br>
 
-🧠 Research interests: ML & NLP
-🤖 Passionate about AI
-✈️ Enthusiastic traveler
+🧠 Research interests: ML & NLP<br>
+🤖 Passionate about AI<br>
+✈️ Enthusiastic traveler<br>
 
 ✨ #CodeAdventurer #AIExplorer #ResearcherAtHeart #NLPWizard
 

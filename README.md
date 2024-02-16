@@ -1,12 +1,13 @@
-🚀 Passionate AI Enthusiast & Software Engineer 🤖
+# Hi there! 👋 I'm Arjun
 
-Master's in Computer Applications 🎓 | Published IEEE Researcher 📚 | Java & JavaScript Developer 💻
+# 👨‍💻 About Me
 
-🔍 Specialized in Data Mining, Machine Learning, and Statistics 📊 | Researching the Future of AI & NLP 🌐
+🎓 Masters in Computer Applications
+💻 Software Engineer
 
-📈 Transforming Ideas into Code | Building Intelligent Solutions 🛠️ | GitHub Explorer 🚀
-
-Let's collaborate 🤝 and innovate in the world of Artificial Intelligence! 
+🧠 Research interests: ML & NLP
+🤖 Passionate about AI
+✈️ Enthusiastic traveler
 
 ✨ #CodeAdventurer #AIExplorer #ResearcherAtHeart #NLPWizard
 

@@ -49,9 +49,9 @@
 
 <table>
   <tr>
-  
-    <th>Name</th>
-    <th>Tech Used</th>
+  <td>
+    <th>Name</th></td>
+   <td><th>Tech Used</th></td> 
  </tr>
   
   <tr>
@@ -89,16 +89,16 @@
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy[Soon will be Public]</td>
-    <td>IoT </td>
+    <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy</td>
+    <td>IoT [Soon will be Public] </td>
   </tr>
   
   
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeBuddy[Soon will be Public]</td>
-    <td>NLP </td>
+    <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeBuddy</td>
+    <td>NLP [Soon will be Public]</td>
   </tr>
 
 
@@ -110,14 +110,14 @@
   
 <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings[Soon will be Public]</td>
-    <td>Python || NLP || LIME</td>
+    <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings</td>
+    <td>Python || NLP || LIME [Soon will be Public]</td>
   </tr>
 
 <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/ExtractSign">ExtractSign[Soon will be Public]</td>
-    <td>Computer Vision || PyTorch || </td>
+    <td><a href="https://github.com/codeasarjun/ExtractSign">ExtractSign</td>
+    <td>Computer Vision || PyTorch || [Soon will be Public]</td>
   </tr>
 
 

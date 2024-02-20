@@ -50,8 +50,8 @@
 <table>
   <tr>
   <td>
-    <th>Name</th></td>
-   <td><th>Tech Used</th></td> 
+    <th>Name</th>
+   <th>Tech Used</th></td> 
  </tr>
   
   <tr>

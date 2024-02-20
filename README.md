@@ -49,7 +49,7 @@
 
 <table>
   <tr>
-    <th>Id</th>
+  
     <th>Name</th>
     <th>Tech Used</th>
  </tr>
@@ -89,7 +89,7 @@
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy</td>
+    <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy[Soon will be Public]</td>
     <td>IoT </td>
   </tr>
   
@@ -97,7 +97,7 @@
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeMate</td>
+    <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeBuddy[Soon will be Public]</td>
     <td>NLP </td>
   </tr>
 
@@ -105,18 +105,18 @@
 <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/MakeitEasy">MakeitEasy</td>
-    <td>Python || PyMuPdf || NLTK || Text Ranking || Extractive Summarization || [Coming soon with bert-extractive-summarizer]   </td>
+    <td>Python || PyMuPdf || NLTK || Text Ranking || Extractive Summarization || [Coming soon with bert-extractive-summarizer] [[Soon will be Public]]  </td>
   </tr>
   
 <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings</td>
+    <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings[Soon will be Public]</td>
     <td>Python || NLP || LIME</td>
   </tr>
 
 <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/ExtractSign">ExtractSign</td>
+    <td><a href="https://github.com/codeasarjun/ExtractSign">ExtractSign[Soon will be Public]</td>
     <td>Computer Vision || PyTorch || </td>
   </tr>
 

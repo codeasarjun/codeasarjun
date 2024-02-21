@@ -90,7 +90,7 @@
   <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/DriverMate">driverBuddy</td>
-    <td>IoT [Soon will be Public] </td>
+    <td>IoT [Soon will be Public.. ] </td>
   </tr>
   
   

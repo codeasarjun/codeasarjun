@@ -12,6 +12,7 @@
 I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
 
 <br/>
+
 🎓 Masters in Computer Applications<br>
 💻 Software Engineer<br>
 

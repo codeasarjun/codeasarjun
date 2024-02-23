@@ -65,8 +65,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on something special!
-- Learning ReactJS
+- 🔭 I’m currently exploring LLM's
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🔤 Natural Language Processing

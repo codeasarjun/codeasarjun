@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Arjun
-
+<img src="https://komarev.com/ghpvc/?username=codeasarjun&&style=flat-square" align="left" />
 # 👨‍💻 About Me
 
 🎓 Masters in Computer Applications<br>

@@ -69,10 +69,9 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🔤 Natural Language Processing
- <!-- - 🖼 Computer Vision-->
-  - 🤖 Reinforcement Learning
-  - Deploying ML Models and scaling them
+ <!-- - 🖼 Computer Vision - 🤖 Reinforcement Learning - Deploying ML Models and scaling them-->
   - ♾️ Literally any tech
+  - I like travelling
 <!-- - 📝 I write technical blogs and articles-->
 - 🏏 Cricket fan
 - 🎮 Game occasionally

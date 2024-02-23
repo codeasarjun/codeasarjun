@@ -62,7 +62,29 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=plastic&logo=azuredevops&logoColor=white&color=%230078D7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 
 <!--end of adding tech stacks-->
+<details>
+  <summary><b>Click to know more about me! 😄 <b></summary>
 
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working on something special!
+- Learning ReactJS
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🔤 Natural Language Processing
+  - 🖼 Computer Vision
+  - 🤖 Reinforcement Learning
+  - Deploying ML Models and scaling them
+  - ♾️ Literally any tech
+<!-- - 📝 I write technical blogs and articles-->
+- 🏏 Cricket fan
+- 🎮 Game occasionally
+- :book: Reading Books - (These days mostly tech :slightly_smiling_face:)
+- I​n​ :heart: with Astronomy and everything about :milky_way: space eversince :baby: !
+
+  </details>
+
+<br/>
 <h2>Projects</h2>
 
 <table>

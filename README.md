@@ -20,6 +20,8 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 🤖 Passionate about AI<br>
 ✈️ Enthusiastic traveler<br>
 
+✨ #CodeAdventurer #AIExplorer #ResearcherAtHeart #NLPWizard
+
 
 ## 👨‍💻 I can code in...
 
@@ -31,7 +33,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
    <img src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="vertical-align:top; margin:4px"/>
 </p>
 
-✨ #CodeAdventurer #AIExplorer #ResearcherAtHeart #NLPWizard
+
 
 
 

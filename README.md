@@ -35,10 +35,6 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 
 
 
-
-
-
-
 ##  🤹 Skill Zone
 
 
@@ -66,7 +62,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 
 <!--end of adding tech stacks-->
 <details>
-  <summary><b>Click to know more about me! 😄 <b></summary>
+    <summary><b>Click to know more about me! 😄 <b></summary>
 
 ## ⚡️ A Few Quick Facts
 
@@ -75,7 +71,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🔤 Natural Language Processing
-  - 🖼 Computer Vision
+ <!-- - 🖼 Computer Vision-->
   - 🤖 Reinforcement Learning
   - Deploying ML Models and scaling them
   - ♾️ Literally any tech

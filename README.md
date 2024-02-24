@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Arjun
 
-<!--<img src="https://komarev.com/ghpvc/?username=codeasarjun&&style=flat-square" align="left" /> -->
+<!-- -->
 
 
 
-<!--## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">-->
+
 
 # 👨‍💻 About Me
 
@@ -77,7 +77,8 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 - 🎮 Game occasionally
 - :book: Reading Books - (These days mostly tech :slightly_smiling_face:)
 - I​n​ :heart: with Astronomy and everything about :milky_way: space eversince :baby: !
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=codeasarjun&&style=flat-square" align="left" />
   </details>
 
 <br/>

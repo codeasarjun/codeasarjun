@@ -148,7 +148,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/ClearFeelings">ClearFeelings</td>
-    <td>Python || NLP || LIME [Soon will be Public]</td>
+    <td>Python || NLP || LIME </td>
   </tr>
 
 <tr>

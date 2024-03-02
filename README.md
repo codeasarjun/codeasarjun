@@ -134,7 +134,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/codeasarjun/CollegeMate">CollegeBuddy</td>
+    <td><a href="https://github.com/codeasarjun/CollegeMate">CampusBuddy</td>
     <td>NLP  || NLTK || JSON</td>
   </tr>
 

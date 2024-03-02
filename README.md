@@ -142,7 +142,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 <tr>
     <td></td>
     <td><a href="https://github.com/codeasarjun/MakeitEasy">MakeitEasy</td>
-    <td>Python || PyMuPdf || NLTK || Text Ranking || Extractive Summarization || [Coming soon with bert-extractive-summarizer] [[Soon will be Public]]  </td>
+    <td>Python || PyMuPdf || NLTK || Text Ranking || Extractive Summarization || [Coming soon with bert-extractive-summarizer] [[Soon will be Public]] ||Text Summarizer  </td>
   </tr>
   
 <tr>

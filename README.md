@@ -138,6 +138,12 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
     <td>NLP  || NLTK || JSON</td>
   </tr>
 
+   <tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/makeiteasy_v1">MakeitEasy 1.1</td>
+    <td>Python ||  Text Summarizer || Flask || NLTK || spaCy </td>
+  </tr>
+
 
 <tr>
     <td></td>
@@ -164,6 +170,27 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
     <td><a href="https://github.com/codeasarjun/Resume-Parser">Resume Parser</td>
     <td>Python || Text Extraction || Flask </td>
   </tr>
+
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/Rewordify">Rewordify</td>
+    <td>Python || Paraphrase || Flask || NLTK || word_tokenize </td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/Textsummary">Text Summarizer</td>
+    <td>Python ||  Text Summarizer || Flask || NLTK || TF-IDF </td>
+  </tr>
+      
+   <tr>
+    <td></td>
+    <td><a href="https://github.com/codeasarjun/Textsummary">Text Summarizer</td>
+    <td>Python ||  Text Summarizer || Flask || NLTK || TF-IDF </td>
+  </tr>
+
+  
+  
   
       
   </tr>

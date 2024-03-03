@@ -183,11 +183,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
     <td>Python ||  Text Summarizer || Flask || NLTK || TF-IDF </td>
   </tr>
       
-   <tr>
-    <td></td>
-    <td><a href="https://github.com/codeasarjun/Textsummary">Text Summarizer</td>
-    <td>Python ||  Text Summarizer || Flask || NLTK || TF-IDF </td>
-  </tr>
+ 
 
   
   

@@ -15,7 +15,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 
 🎓 Masters in Computer Applications<br>
 💻 Software Engineer<br>
-🧠 Research interests: ML & NLP<br>
+<!--🧠 Research interests: ML & NLP<br>-->
 🤖 Passionate about AI<br>
 ✈️ Enthusiastic traveler<br>
 

@@ -75,7 +75,7 @@ I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machi
 <!-- - 📝 I write technical blogs and articles-->
 - 🏏 Cricket fan
 - 🎮 Game occasionally
-- :book: Reading Books - (These days mostly tech :slightly_smiling_face:)
+<!-- - :book: Reading Books - (These days mostly tech :slightly_smiling_face:)-->
 - I​n​ :heart: with Astronomy and everything about :milky_way: space eversince :baby: !
 <br>
 <img src="https://komarev.com/ghpvc/?username=codeasarjun&&style=flat-square" align="left" />

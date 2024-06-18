@@ -1,4 +1,6 @@
-# Hi there! 👋 I'm Arjun
+<h1 align="center"> Hi 👋 I'm Arjun
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=38C2FF&random=false&width=435&lines=Data+Science+%7C%7C+Machine+Learning++%7C%7C+NLP)](https://git.io/typing-svg)
 
 <!-- -->
 
@@ -9,7 +11,7 @@
 # 👨‍💻 About Me
 
 
-I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/>
+<!--I am a self-driven 👨‍💻, self-taught 🎓 and highly motivated🤓  Machine Learning Practitioner, passionate about developing cutting-edge AI technologies 💫 to solve real world problems.  <br/> --?
 
 <br/>
 

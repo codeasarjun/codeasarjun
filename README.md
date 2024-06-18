@@ -24,7 +24,7 @@
 ✨ #CodeAdventurer #AIExplorer #ResearcherAtHeart #NLPWizard
 
 
-## 👨‍💻 I can code in...
+## 👨‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Play&pause=1000&color=38C2FF&random=false&width=435&lines=I+can+code+in+...+..)](https://git.io/typing-svg)
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->

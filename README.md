@@ -85,6 +85,8 @@
   </details>
 
 <br/>
+
+<!--
 <h2>Projects</h2>
 
 <table>
@@ -185,6 +187,7 @@
     <td><a href="https://github.com/codeasarjun/Textsummary">Text Summarizer</td>
     <td>Python ||  Text Summarizer || Flask || NLTK || TF-IDF </td>
   </tr>
+  -->
       
  
 

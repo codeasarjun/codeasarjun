@@ -16,7 +16,7 @@
 <br/>
 
 🎓 Masters in Computer Applications<br>
-💻 Software Engineer<br>
+💻 Data Scientist<br>
 <!--🧠 Research interests: ML & NLP<br>-->
 🤖 Passionate about AI<br>
 ✈️ Enthusiastic traveler<br>
